@@ -8,4 +8,4 @@ This project takes data collected by farmers of wholesale products in Kenya. Var
 ![screenshot](Images/LogisticAnalysis.png)
 
 ## Classifying Farmers using K-nearest Neighbours
-![screenshot](Images/KNNAnalysis.png)
+![screenshot](Images/KNNAnalysis2.png)
